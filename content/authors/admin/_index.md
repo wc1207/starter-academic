@@ -67,6 +67,6 @@ email: ""
 highlight_name: false
 ---
 
-I am an assistant professor in the Human Development and Quantitative Methods Division at the Graduate School of Education at the University of Pennsylvania. My research focuses on applications of statistical methods to improve the generalizability of study findings in education and the social sciences. I have also conducted research in experimental design that examines the effects  
+I am an assistant professor in the Human Development and Quantitative Methods Division at the Graduate School of Education at the University of Pennsylvania. My research primarily focuses on applications of statistical methods to improve the generalizability of study findings in education and the social sciences.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
