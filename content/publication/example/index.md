@@ -5,10 +5,10 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - WendyChan
-author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Wendy Chan
+  - Jimin Oh
+  - Peihao Luo
+author_notes: []
 publication: Journal of Research on Educational Effectiveness
 summary: ""
 url_dataset: ""
@@ -18,7 +18,7 @@ url_source: ""
 url_video: ""
 title: The Implications of Population Changes on Generalization and Study Design
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
