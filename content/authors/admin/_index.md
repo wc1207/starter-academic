@@ -45,4 +45,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am an assistant professor of education in the Human Development and Quantitative Methods Division in the Graduate School of Education at the University of Pennsylvania. My research focuses on the development and application of statistical methods for generalizing study findings in education.
+I am an assistant professor of education in the Human Development and Quantitative Methods Division in the [Graduate School of Education](www.gse.upenn.edu) at the [University of Pennsylvania](www.upenn.edu). My research focuses on the development and application of statistical methods for generalizing study findings in education studies.
