@@ -11,7 +11,7 @@ role: Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Pennsylvania
-  url: https://www.gse.upenn         .edu/
+  url: https://www.gse.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
