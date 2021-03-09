@@ -1,7 +1,7 @@
 ---
 title: Wendy Chan
 role: Assistant Professor
-avatar_filename: chan-headshot.png
+avatar_filename: avatar.png
 interests:
   - Statistical generalization
   - Experimental design
