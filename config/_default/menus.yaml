@@ -8,7 +8,7 @@ main:
     url: uploads/Chan_CV.pdf
     weight: 30
   - name: Publications
-    url: '#publications'
+    url: '#Publications'
     weight: 40
   - name: Projects
     url: '#projects'
