@@ -24,7 +24,7 @@ abstract: Findings from experimental studies have increasingly been used to
   for whom the findings of a study will be relevant.
 draft: false
 featured: false
-url_pdf: gen_time.pdf
+url_pdf: 
 image:
   filename: 
   focal_point: Smart
