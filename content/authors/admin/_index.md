@@ -7,18 +7,13 @@ interests:
   - Experimental design
   - Small area estimation
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-    display:
-      header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/WendyChanw
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.com/citations?user=X9-w2_oAAAAJ&hl=en
   - icon: github
