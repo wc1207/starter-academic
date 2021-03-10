@@ -14,7 +14,7 @@ social:
     display:
       header: true
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=X9-w2_oAAAAJ&hl=en
   - icon: github
     icon_pack: fab
