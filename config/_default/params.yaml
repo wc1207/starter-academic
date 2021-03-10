@@ -19,7 +19,11 @@ description: ''
 twitter: ''
 
 # Contact (edit or remove options as required)
-
+content:
+  form:
+    provider: netlify
+    netlify:
+      captcha: true
 
 contact_links:
   - icon: twitter
