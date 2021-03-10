@@ -12,7 +12,7 @@ publication: Communications for Statistical Applications and Methods
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 'Practice of Causal Inference.pdf'
   focal_point: Smart
   preview_only: false
 date: 2016-03-10T02:56:00.000Z
