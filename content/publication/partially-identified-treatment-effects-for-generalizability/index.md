@@ -29,6 +29,7 @@ abstract: |-
   different assumptions.
 draft: false
 featured: false
+url_pdf: https://www.tandfonline.com/doi/abs/10.1080/19345747.2016.1273412
 image:
   filename: featured
   focal_point: Smart
