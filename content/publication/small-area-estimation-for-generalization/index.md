@@ -27,9 +27,10 @@ abstract: >-
   conditions under which small area estimators outperform conventional estimators
 
   and the limitations of this application to causal generalization studies.
-url_pdf: https://journals.sagepub.com/doi/full/10.3102/1076998617733828
+
 draft: false
 featured: false
+url_pdf: https://journals.sagepub.com/doi/full/10.3102/1076998617733828
 image:
   filename: featured
   focal_point: Smart
