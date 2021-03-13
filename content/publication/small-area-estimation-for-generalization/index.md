@@ -1,5 +1,5 @@
 ---
-title: Small Area Estimation for Generalization
+title: Applications of Small Area Estimation to Generalization With Subclassification by Propensity Scores
 publication_types:
   - "2"
 authors:
@@ -27,6 +27,7 @@ abstract: >-
   conditions under which small area estimators outperform conventional estimators
 
   and the limitations of this application to causal generalization studies.
+url_pdf: https://journals.sagepub.com/doi/full/10.3102/1076998617733828
 draft: false
 featured: false
 image:
