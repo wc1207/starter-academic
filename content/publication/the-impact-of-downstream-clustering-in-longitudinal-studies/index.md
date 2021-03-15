@@ -44,6 +44,7 @@ abstract: >-
   clustering effects using data from a state longitudinal data system.
 draft: false
 featured: false
+url_pdf: https://www.tandfonline.com/doi/abs/10.1080/00220973.2020.1783501
 image:
   filename: featured
   focal_point: Smart
