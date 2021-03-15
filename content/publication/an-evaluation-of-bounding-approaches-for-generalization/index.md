@@ -20,6 +20,7 @@ abstract: "Statisticians have developed propensity score methods to improve
   effectiveness of a technology aid on mathematics achievement."
 draft: false
 featured: false
+url_pdf: https://www.tandfonline.com/doi/abs/10.1080/00220973.2019.1697191
 image:
   filename: featured
   focal_point: Smart
