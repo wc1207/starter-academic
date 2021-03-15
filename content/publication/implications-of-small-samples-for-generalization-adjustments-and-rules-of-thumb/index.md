@@ -53,6 +53,7 @@ abstract: >-
   might generalize.
 draft: false
 featured: false
+url_pdf: https://journals.sagepub.com/doi/10.1177/0193841X16655665
 image:
   filename: featured
   focal_point: Smart
