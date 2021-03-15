@@ -28,6 +28,7 @@ abstract: While research on statistical power for designs with continuous
   parameters and ideas for future research.
 draft: false
 featured: false
+url_pdf: https://psycnet.apa.org/buy/2018-31259-001
 image:
   filename: featured
   focal_point: Smart
