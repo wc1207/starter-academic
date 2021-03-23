@@ -16,7 +16,7 @@ main:
     url: '/publication'
     weight: 40
     
- talks:
+ main:
  - name: Talks
    url: '/talks'
    weight: 40
